@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://studycare.github.io/archive-a59uar/sitemap.xml
